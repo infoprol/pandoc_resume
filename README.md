@@ -4,7 +4,7 @@ The Markdown Resume
 ### Instructions
 
 ```bash
-git clone https://github.com/mszep/pandoc_resume
+git clone https://github.com/infoprol/pandoc_resume
 cd pandoc_resume
 vim markdown/resume.md   # insert your own resume info
 ```
